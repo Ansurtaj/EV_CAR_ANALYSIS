@@ -24,8 +24,8 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 
 # 🛠️ Tools Used
 
-Tableau Public
-HTML ,CSS (for Web Integration)
+Tableau Public 
+HTML ,CSS (for Web Integration) 
 my sql 
 
 # 📽️ Demo & Live Dashboard
