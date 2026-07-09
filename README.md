@@ -1,8 +1,8 @@
-🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
+# 🚗 Visualization Tool for Electric Vehicle Charge and Range Analysis
 
 This project presents a comprehensive Tableau-based solution for comparing electric vehicle (EV) specifications, pricing, and charging infrastructure across both global and Indian markets.
 
-📁 Folder Structure
+# 📁 Folder Structure
 
     📦 Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
 ├── 1. Ideation Phase/ → Brainstorming, empathy map, problem statement
@@ -13,7 +13,7 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 ├── 6.Project Documentation/->How to keep files 
 ├── 7. Doc and Demo/ → Final report and video demo link
 
-🔍 Project Highlights:
+# 🔍 Project Highlights:
 
 ✅ 4 Cleaned Datasets (Global, Europe, India, Charging Infra)
 📊 10 Tableau Sheets
@@ -22,13 +22,13 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 🌐 Geo Map for Indian Charging Stations
 🧠 Features like brand filters, range-price sliders, calculated fields
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 Tableau Public
 HTML ,CSS (for Web Integration)
 my sql 
 
-📽️ Demo & Live Dashboard
+# 📽️ Demo & Live Dashboard
 🔗 Live Tableau Dashboard  Link:
 https://public.tableau.com/views/EvCarAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
