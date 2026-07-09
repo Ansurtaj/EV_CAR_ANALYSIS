@@ -4,23 +4,23 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 
 # 📁 Folder Structure
 
-    📦 Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
-├── 1. Ideation Phase/ → Brainstorming, empathy map, problem statement
-├── 2. Requirement Analysis/ → Data flow diagram, customer journey map, tech stack
-├── 3. Project Design Phase/ → Problem-solution fit, proposed solution, architecture
-├── 4. Project Planning Phase/ → Sprints, story points, velocity & burndown chart
-├── 5. Project Testing Files/ → Tableau .twbx file, dashboard screenshots, data,Functional and Performance Testing/ → Test results, calculated fields, filter usage
-├── 6.Project Documentation/->How to keep files 
-├── 7. Doc and Demo/ → Final report and video demo link
+📦 Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
+ 1. Ideation Phase/ → Brainstorming, empathy map, problem statement
+ 2. Requirement Analysis/ → Data flow diagram, customer journey map, tech stack
+ 3. Project Design Phase/ → Problem-solution fit, proposed solution, architecture
+ 4. Project Planning Phase/ → Sprints, story points, velocity & burndown chart
+ 5. Project Development phase/->preprocess ,Daashboard ,Story Screen shots
+ 6. Project Testing Files/  Test results, calculated fields, filter usage
+ 7. Doc and Demo/ → Final report and video demo link
 
 # 🔍 Project Highlights:
 
-✅ 4 Cleaned Datasets (Global, Europe, India, Charging Infra)
-📊 10 Tableau Sheets
-🧩 2 Interactive Dashboards (Global & India)
-📘 1 Story with 6 slides for walkthrough
-🌐 Geo Map for Indian Charging Stations
-🧠 Features like brand filters, range-price sliders, calculated fields
+ ✅ 4 Cleaned Datasets (Global, Europe, India, Charging Infra)
+ 📊 10 Tableau Sheets
+ 🧩 2 Interactive Dashboards (Global & India)
+ 📘 1 Story with 6 slides for walkthrough
+ 🌐 Geo Map for Indian Charging Stations
+ 🧠 Features like brand filters, range-price sliders, calculated fields
 
 # 🛠️ Tools Used
 
