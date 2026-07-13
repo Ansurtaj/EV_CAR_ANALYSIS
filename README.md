@@ -35,6 +35,3 @@ https://public.tableau.com/views/EvCarAnalysisDashboard/Dashboard1?:language=en-
 🔗 Live Tableau Story Link:
 https://public.tableau.com/shared/8WC2QCJGY?:display_count=n&:origin=viz_share_link
 
-# video Demo link 
-https://github.com/user-attachments/assets/87175b8c-2d6e-48c9-87e1-4c4a762b2ed6
-
